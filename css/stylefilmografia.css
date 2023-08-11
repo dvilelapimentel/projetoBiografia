@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.corpo{
+    background-color: white;
+    display: flex;
+    align-items: flex-start;
+    
+}
+
+body{
+    background-color: #ffcbc7;
+    box-sizing: border-box;
+    margin: 50px;
+}
+
+a{
+    color: #e01010;
+    font-size: 50px;
+}
+
+.titulo{
+    color: #e01010;
+    font-size: 80px;
+    background-color: white;
+}
+
+.subtitulo{
+    color: white;
+    font-size: 40px;
+    background-color: black;    
+}
+
+.texto{
+    font-size: 20px;
+}
+
+.tabela{
+    display: flex;
+    justify-content: space-around;
+    gap: 10%;
+}
+
+.titulo__tabela{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.filme{
+    font-size: 20px;
+    text-align: center;
+}
+
+.personagem{
+    font-size: 20px;
+    text-align: center;
+}
+
+.imagens{
+    display: flex;
+    gap: 10%;
+}
+
